@@ -26,7 +26,6 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 ## Project Setup
 
 - Create a .env file and have all of the following keys:
-
 ```
 DATABASE_URL='prisma_database_url'
 NEXTAUTH_SECRET=''
@@ -36,7 +35,7 @@ OPENAI_API_KEY=''
 API_URL='http://localhost:3000'
 ```
 
-- On production - don't forget to change the `API_URL` to your domain.
+- On production - don't forget to change the API_URL to your domain.
 
 ## Learn More
 
