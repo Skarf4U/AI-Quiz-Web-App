@@ -31,6 +31,7 @@ GOOGLE_CLIENT_ID=''
 GOOGLE_CLIENT_SECRET=''
 OPENAI_API_KEY=''
 API_URL='http://localhost:3000'```
+
 - On production don't forget to the change the API_URL to your domain.
 
 ## Learn More
